@@ -20,4 +20,4 @@ Projeto dinamico com duas paginas:
 
 ## Aprendizados
 
-Melhor utilização das tags semânticas, flex-box, uso das classes e media querys.
+Melhor utilização das tags semânticas, flex-box, uso das classes e media queries.
